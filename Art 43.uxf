@@ -100,7 +100,7 @@ des Systemtyps</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>352</x>
+      <x>363</x>
       <y>418</y>
       <w>143</w>
       <h>77</h>
@@ -135,7 +135,7 @@ der Anforderungen aus
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1012</x>
+      <x>913</x>
       <y>440</y>
       <w>121</w>
       <h>44</h>
@@ -207,11 +207,11 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
     <coordinates>
       <x>308</x>
       <y>451</y>
-      <w>66</w>
+      <w>77</w>
       <h>33</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>40.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -352,7 +352,7 @@ durch "benannte Stelle"</panel_attributes>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen 
 durch Marktüberwachungs-
-behörde ([Art 4])</panel_attributes>
+behörde wie [Art 74 Abs 8/9]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -381,13 +381,13 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>484</x>
+      <x>495</x>
       <y>451</y>
-      <w>77</w>
+      <w>66</w>
       <h>33</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>40.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
@@ -573,24 +573,25 @@ bg=red</panel_attributes>
     <coordinates>
       <x>715</x>
       <y>440</y>
-      <w>319</w>
+      <w>220</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [Art 43 1 a]: Art 40 und Art 41
-sind anwendbar, interne Kontrolle</panel_attributes>
-    <additional_attributes>270.0;20.0;10.0;20.0</additional_attributes>
+sind anwendbar</panel_attributes>
+    <additional_attributes>180.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1122</x>
-      <y>451</y>
-      <w>66</w>
-      <h>33</h>
+      <x>1023</x>
+      <y>440</y>
+      <w>165</w>
+      <h>44</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>40.0;10.0;10.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;-
+interne Kontrolle</panel_attributes>
+    <additional_attributes>130.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
