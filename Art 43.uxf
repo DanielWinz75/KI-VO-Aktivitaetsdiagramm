@@ -169,7 +169,8 @@ fg=RED</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision</panel_attributes>
+    <panel_attributes>type=decision
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
