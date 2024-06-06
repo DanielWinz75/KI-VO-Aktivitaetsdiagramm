@@ -28,8 +28,8 @@ fontsize=10
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>33</x>
-      <y>539</y>
+      <x>0</x>
+      <y>495</y>
       <w>143</w>
       <h>44</h>
     </coordinates>
@@ -41,8 +41,8 @@ layer=2</panel_attributes>
   <element>
     <id>UMLObject</id>
     <coordinates>
-      <x>1617</x>
-      <y>649</y>
+      <x>1584</x>
+      <y>605</y>
       <w>132</w>
       <h>44</h>
     </coordinates>
@@ -54,8 +54,8 @@ layer=1</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>209</x>
-      <y>44</y>
+      <x>176</x>
+      <y>0</y>
       <w>1386</w>
       <h>847</h>
     </coordinates>
@@ -67,8 +67,8 @@ layer=1</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>253</x>
-      <y>528</y>
+      <x>220</x>
+      <y>484</y>
       <w>143</w>
       <h>77</h>
     </coordinates>
@@ -80,8 +80,8 @@ der Anforderungen aus
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>165</x>
-      <y>550</y>
+      <x>132</x>
+      <y>506</y>
       <w>110</w>
       <h>33</h>
     </coordinates>
@@ -91,8 +91,8 @@ der Anforderungen aus
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1397</x>
-      <y>506</y>
+      <x>1364</x>
+      <y>462</y>
       <w>176</w>
       <h>33</h>
     </coordinates>
@@ -102,8 +102,8 @@ der Anforderungen aus
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>902</x>
-      <y>550</y>
+      <x>869</x>
+      <y>506</y>
       <w>121</w>
       <h>44</h>
     </coordinates>
@@ -114,8 +114,8 @@ KB nach [Anh VI]</panel_attributes>
   <element>
     <id>UMLSyncBarVertical</id>
     <coordinates>
-      <x>1540</x>
-      <y>517</y>
+      <x>1507</x>
+      <y>473</y>
       <w>22</w>
       <h>319</h>
     </coordinates>
@@ -127,8 +127,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1540</x>
-      <y>660</y>
+      <x>1507</x>
+      <y>616</y>
       <w>99</w>
       <h>33</h>
     </coordinates>
@@ -138,8 +138,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>671</x>
-      <y>550</y>
+      <x>638</x>
+      <y>506</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -149,8 +149,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>682</x>
-      <y>583</y>
+      <x>649</x>
+      <y>539</y>
       <w>319</w>
       <h>154</h>
     </coordinates>
@@ -161,8 +161,8 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>429</x>
-      <y>550</y>
+      <x>396</x>
+      <y>506</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -172,8 +172,8 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>462</y>
+      <x>407</x>
+      <y>418</y>
       <w>33</w>
       <h>110</h>
     </coordinates>
@@ -183,8 +183,8 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>462</x>
-      <y>550</y>
+      <x>429</x>
+      <y>506</y>
       <w>231</w>
       <h>77</h>
     </coordinates>
@@ -198,8 +198,8 @@ System wie
   <element>
     <id>UMLSyncBarVertical</id>
     <coordinates>
-      <x>1397</x>
-      <y>220</y>
+      <x>1364</x>
+      <y>176</y>
       <w>22</w>
       <h>352</h>
     </coordinates>
@@ -211,8 +211,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>946</x>
-      <y>429</y>
+      <x>913</x>
+      <y>385</y>
       <w>231</w>
       <h>44</h>
     </coordinates>
@@ -222,8 +222,8 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1166</x>
-      <y>440</y>
+      <x>1133</x>
+      <y>396</y>
       <w>264</w>
       <h>33</h>
     </coordinates>
@@ -233,8 +233,8 @@ bg=red</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>979</x>
-      <y>693</y>
+      <x>946</x>
+      <y>649</y>
       <w>198</w>
       <h>44</h>
     </coordinates>
@@ -245,8 +245,8 @@ nach [Anh VII]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1474</x>
-      <y>704</y>
+      <x>1441</x>
+      <y>660</y>
       <w>99</w>
       <h>33</h>
     </coordinates>
@@ -256,8 +256,8 @@ nach [Anh VII]</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1331</x>
-      <y>693</y>
+      <x>1298</x>
+      <y>649</y>
       <w>154</w>
       <h>55</h>
     </coordinates>
@@ -268,8 +268,8 @@ durch "benannte Stelle"</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>1232</x>
-      <y>693</y>
+      <x>1199</x>
+      <y>649</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -279,8 +279,8 @@ durch "benannte Stelle"</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1166</x>
-      <y>704</y>
+      <x>1133</x>
+      <y>660</y>
       <w>88</w>
       <h>33</h>
     </coordinates>
@@ -290,8 +290,8 @@ durch "benannte Stelle"</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1265</x>
-      <y>704</y>
+      <x>1232</x>
+      <y>660</y>
       <w>88</w>
       <h>33</h>
     </coordinates>
@@ -301,8 +301,8 @@ durch "benannte Stelle"</panel_attributes>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>1331</x>
-      <y>803</y>
+      <x>1298</x>
+      <y>759</y>
       <w>154</w>
       <h>55</h>
     </coordinates>
@@ -314,8 +314,8 @@ behörde wie [Art 74 Abs 8/9]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1144</x>
-      <y>726</y>
+      <x>1111</x>
+      <y>682</y>
       <w>209</w>
       <h>121</h>
     </coordinates>
@@ -326,8 +326,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1474</x>
-      <y>825</y>
+      <x>1441</x>
+      <y>781</y>
       <w>99</w>
       <h>33</h>
     </coordinates>
@@ -337,8 +337,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>385</x>
-      <y>561</y>
+      <x>352</x>
+      <y>517</y>
       <w>66</w>
       <h>33</h>
     </coordinates>
@@ -348,8 +348,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>429</x>
-      <y>429</y>
+      <x>396</x>
+      <y>385</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -359,8 +359,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>462</x>
-      <y>440</y>
+      <x>429</x>
+      <y>396</y>
       <w>506</w>
       <h>33</h>
     </coordinates>
@@ -371,113 +371,46 @@ m2=[Art 43 2]: Systemtypen wie [Anh III 2 bis 8], interne Kontrolle</panel_attri
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>462</x>
-      <y>319</y>
+      <x>429</x>
+      <y>275</y>
       <w>231</w>
       <h>55</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [Art 43 3]: Systeme, die 
 unter Harmonvorschr [Anh I A] 
-fallen
-fg=RED</panel_attributes>
+fallen</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>671</x>
-      <y>308</y>
+      <x>638</x>
+      <y>264</y>
       <w>264</w>
       <h>55</h>
     </coordinates>
     <panel_attributes>[Art 43 3]: Durchführen der KB wie in jeweiliger
 Harmonvorschr vorgeschrieben UND durchführen
-von [Anh VII Abs 5 Nr 4.3,4.4,4.5]
-fg=RED</panel_attributes>
+von [Anh VII Abs 5 Nr 4.3,4.4,4.5]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>924</x>
-      <y>330</y>
+      <x>891</x>
+      <y>286</y>
       <w>55</w>
       <h>33</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>30.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>1166</x>
-      <y>319</y>
-      <w>44</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1177</x>
+      <x>1133</x>
       <y>275</y>
-      <w>187</w>
-      <h>66</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-m2=Harmonisierte Norm [Art 40]
-fg=RED</panel_attributes>
-    <additional_attributes>150.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1177</x>
-      <y>352</y>
-      <w>187</w>
-      <h>66</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-m2=Gemeinsame Spez [Art 41]
-fg=RED</panel_attributes>
-    <additional_attributes>150.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLSyncBarVertical</id>
-    <coordinates>
-      <x>1331</x>
-      <y>286</y>
-      <w>22</w>
-      <h>110</h>
-    </coordinates>
-    <panel_attributes>template=txt
-title=titletext
-bg=red
-fg=RED</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1331</x>
-      <y>330</y>
-      <w>99</w>
-      <h>33</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
-    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLSpecialState</id>
-    <coordinates>
-      <x>1155</x>
-      <y>550</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -487,43 +420,32 @@ fg=RED</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1166</x>
-      <y>506</y>
-      <w>198</w>
+      <x>1144</x>
+      <y>231</y>
+      <w>187</w>
       <h>66</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m2=Harmonisierte Norm [Art 40]</panel_attributes>
-    <additional_attributes>160.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
+    <additional_attributes>150.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1166</x>
-      <y>583</y>
-      <w>198</w>
+      <x>1144</x>
+      <y>308</y>
+      <w>187</w>
       <h>66</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m2=Gemeinsame Spez [Art 41]</panel_attributes>
-    <additional_attributes>160.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1331</x>
-      <y>561</y>
-      <w>99</w>
-      <h>33</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>150.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSyncBarVertical</id>
     <coordinates>
-      <x>1331</x>
-      <y>517</y>
+      <x>1298</x>
+      <y>242</y>
       <w>22</w>
       <h>110</h>
     </coordinates>
@@ -535,8 +457,78 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>704</x>
-      <y>550</y>
+      <x>1298</x>
+      <y>286</y>
+      <w>99</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>1122</x>
+      <y>506</y>
+      <w>44</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>type=decision</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1133</x>
+      <y>462</y>
+      <w>198</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m2=Harmonisierte Norm [Art 40]</panel_attributes>
+    <additional_attributes>160.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1133</x>
+      <y>539</y>
+      <w>198</w>
+      <h>66</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+m2=Gemeinsame Spez [Art 41]</panel_attributes>
+    <additional_attributes>160.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1298</x>
+      <y>517</y>
+      <w>99</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSyncBarVertical</id>
+    <coordinates>
+      <x>1298</x>
+      <y>473</y>
+      <w>22</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>template=txt
+title=titletext
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>671</x>
+      <y>506</y>
       <w>220</w>
       <h>44</h>
     </coordinates>
@@ -548,8 +540,8 @@ sind anwendbar</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1012</x>
-      <y>550</y>
+      <x>979</x>
+      <y>506</y>
       <w>165</w>
       <h>44</h>
     </coordinates>
@@ -560,70 +552,8 @@ interne Kontrolle</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>957</x>
-      <y>319</y>
-      <w>44</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>990</x>
-      <y>319</y>
-      <w>198</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-interne Kontrolle
-fg=RED</panel_attributes>
-    <additional_attributes>160.0;20.0;10.0;20.0</additional_attributes>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>968</x>
-      <y>209</y>
-      <w>165</w>
-      <h>132</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
-    <additional_attributes>130.0;10.0;10.0;10.0;10.0;100.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLState</id>
-    <coordinates>
-      <x>1111</x>
-      <y>198</y>
-      <w>220</w>
-      <h>44</h>
-    </coordinates>
-    <panel_attributes>[Art 43 3]: Prüfen durch notifizierte 
-Stelle die [Art 31 Abs 4,5,10,11] genügt
-fg=RED</panel_attributes>
-    <additional_attributes/>
-  </element>
-  <element>
-    <id>Relation</id>
-    <coordinates>
-      <x>1320</x>
-      <y>209</y>
-      <w>110</w>
-      <h>33</h>
-    </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
-    <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
-  </element>
-  <element>
-    <id>UMLSpecialState</id>
-    <coordinates>
-      <x>429</x>
-      <y>319</y>
+      <x>924</x>
+      <y>275</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -633,8 +563,65 @@ fg=RED</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>352</y>
+      <x>957</x>
+      <y>275</y>
+      <w>198</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-
+interne Kontrolle</panel_attributes>
+    <additional_attributes>160.0;20.0;10.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>935</x>
+      <y>165</y>
+      <w>165</w>
+      <h>132</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>130.0;10.0;10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>1078</x>
+      <y>154</y>
+      <w>220</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>[Art 43 3]: Prüfen durch notifizierte 
+Stelle die [Art 31 Abs 4,5,10,11] genügt</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>1287</x>
+      <y>165</y>
+      <w>110</w>
+      <h>33</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>80.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>396</x>
+      <y>275</y>
+      <w>44</w>
+      <h>44</h>
+    </coordinates>
+    <panel_attributes>type=decision</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>407</x>
+      <y>308</y>
       <w>33</w>
       <h>99</h>
     </coordinates>
@@ -644,8 +631,8 @@ fg=RED</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>429</x>
-      <y>132</y>
+      <x>396</x>
+      <y>88</y>
       <w>44</w>
       <h>44</h>
     </coordinates>
@@ -655,8 +642,8 @@ fg=RED</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
-      <y>165</y>
+      <x>407</x>
+      <y>121</y>
       <w>33</w>
       <h>176</h>
     </coordinates>
@@ -666,50 +653,54 @@ fg=RED</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>462</x>
-      <y>132</y>
+      <x>429</x>
+      <y>88</y>
       <w>231</w>
       <h>55</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 Systeme, die 
 unter Harmonvorschr [Anh I B]
-fallen</panel_attributes>
+fallen
+fg=RED</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
     <coordinates>
-      <x>671</x>
-      <y>132</y>
+      <x>638</x>
+      <y>88</y>
       <w>264</w>
       <h>55</h>
     </coordinates>
     <panel_attributes>[Art 2 2]: Es gelten nur 
-[Art 6 1, Art 102 bis 109, 112, 57]</panel_attributes>
+[Art 6 1, Art 102 bis 109, 112, 57]
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>1056</x>
-      <y>143</y>
+      <x>1023</x>
+      <y>99</y>
       <w>22</w>
       <h>22</h>
     </coordinates>
-    <panel_attributes>type=flow_final</panel_attributes>
+    <panel_attributes>type=flow_final
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>924</x>
-      <y>132</y>
+      <x>891</x>
+      <y>88</y>
       <w>154</w>
       <h>44</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-Keine KB</panel_attributes>
+Keine KB
+fg=RED</panel_attributes>
     <additional_attributes>120.0;20.0;10.0;20.0</additional_attributes>
   </element>
 </diagram>
