@@ -166,7 +166,8 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
       <w>44</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes>type=decision</panel_attributes>
+    <panel_attributes>type=decision
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -177,7 +178,8 @@ m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
       <w>33</w>
       <h>110</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -355,7 +357,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
       <w>44</w>
       <h>44</h>
     </coordinates>
-    <panel_attributes>type=decision</panel_attributes>
+    <panel_attributes>type=decision
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
