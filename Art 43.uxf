@@ -206,7 +206,8 @@ fg=RED</panel_attributes>
       <w>490</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>470.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -345,7 +346,8 @@ fg=RED</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m2=[Art 43 2]: Systemtypen wie [Anh III 2 bis 8], interne Kontrolle</panel_attributes>
+m2=[Art 43 2]: Systemtypen wie [Anh III 2 bis 8], interne Kontrolle
+fg=RED</panel_attributes>
     <additional_attributes>320.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
