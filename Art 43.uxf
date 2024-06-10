@@ -448,7 +448,8 @@ fg=RED</panel_attributes>
       <w>220</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>200.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -593,7 +594,8 @@ fg=RED</panel_attributes>
       <w>230</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>210.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
