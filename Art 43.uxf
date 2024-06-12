@@ -1,18 +1,3 @@
-//////////////////////////////////////////////////////////////////////////////////////////////
-// This diagram is free software: you can redistribute it and/or modify it
-// under the terms of the GNU General Public License as published by
-// the Free Software Foundation, either version 3 of the License, or
-// (at your option) any later version.
-//
-// This diagram is distributed in the hope that it will be useful,
-// but WITHOUT ANY WARRANTY; without even the implied warranty of
-// MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-// GNU General Public License for more details.
-//
-// You should have received a copy of the GNU General Public License
-// along with this diagram. If not, see <http://www.gnu.org/licenses/>.
-//////////////////////////////////////////////////////////////////////////////////////////////
-
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <diagram program="umlet" version="15.1">
   <help_text>// Uncomment the following line to change the fontsize and font:
@@ -112,8 +97,7 @@ der Anforderungen aus
       <h>40</h>
     </coordinates>
     <panel_attributes>Durchführen der 
-KB nach [Anh VI]
-fg=RED</panel_attributes>
+KB nach [Anh VI]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -148,8 +132,7 @@ bg=red</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
+    <panel_attributes>type=decision</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -161,8 +144,7 @@ fg=RED</panel_attributes>
       <h>140</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar
-fg=RED</panel_attributes>
+m1=[Art 43 1 b]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
     <additional_attributes>270.0;120.0;10.0;120.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -173,8 +155,7 @@ fg=RED</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
+    <panel_attributes>type=decision</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -200,8 +181,7 @@ fg=RED</panel_attributes>
 [Art 43 1]:
 Biometr 
 System wie
-[Anh III 1]
-fg=RED</panel_attributes>
+[Anh III 1]</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -235,8 +215,7 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>Durchführen der KB 
-nach [Anh VII]
-fg=RED</panel_attributes>
+nach [Anh VII]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -247,8 +226,7 @@ fg=RED</panel_attributes>
       <w>90</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -260,8 +238,7 @@ fg=RED</panel_attributes>
       <h>50</h>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen 
-durch "benannte Stelle"
-fg=RED</panel_attributes>
+durch "benannte Stelle"</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -272,8 +249,7 @@ fg=RED</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
+    <panel_attributes>type=decision</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -284,8 +260,7 @@ fg=RED</panel_attributes>
       <w>80</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -296,8 +271,7 @@ fg=RED</panel_attributes>
       <w>80</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -310,8 +284,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen 
 durch Marktüberwachungs-
-behörde wie [Art 74 Abs 8/9]
-fg=RED</panel_attributes>
+behörde wie [Art 74 Abs 8/9]</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -323,8 +296,7 @@ fg=RED</panel_attributes>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m1=[Art 43 1 b d] - Behördensystem
-fg=RED</panel_attributes>
+m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
     <additional_attributes>170.0;90.0;100.0;90.0;100.0;10.0</additional_attributes>
   </element>
   <element>
@@ -335,8 +307,7 @@ fg=RED</panel_attributes>
       <w>90</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -478,8 +449,7 @@ bg=red</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision
-fg=RED</panel_attributes>
+    <panel_attributes>type=decision</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -491,8 +461,7 @@ fg=RED</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m2=Harmonisierte Norm [Art 40]
-fg=RED</panel_attributes>
+m2=Harmonisierte Norm [Art 40]</panel_attributes>
     <additional_attributes>160.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
@@ -504,8 +473,7 @@ fg=RED</panel_attributes>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m2=Gemeinsame Spez [Art 41]
-fg=RED</panel_attributes>
+m2=Gemeinsame Spez [Art 41]</panel_attributes>
     <additional_attributes>160.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -516,8 +484,7 @@ fg=RED</panel_attributes>
       <w>220</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>200.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -530,8 +497,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>template=txt
 title=titletext
-bg=red
-fg=RED</panel_attributes>
+bg=red</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -544,8 +510,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [Art 43 1 a]: Art 40 und Art 41
-sind anwendbar
-fg=RED</panel_attributes>
+sind anwendbar</panel_attributes>
     <additional_attributes>180.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -557,8 +522,7 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-interne Kontrolle
-fg=RED</panel_attributes>
+interne Kontrolle</panel_attributes>
     <additional_attributes>130.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
