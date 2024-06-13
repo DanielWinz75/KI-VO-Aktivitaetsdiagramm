@@ -84,7 +84,7 @@ layer=1</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>[Art 43 1 a]: Durchführen der KB nach [Anh VI]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -120,7 +120,7 @@ bg=red</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -133,7 +133,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>230.0;120.0;40.0;120.0;40.0;10.0</additional_attributes>
   </element>
   <element>
@@ -169,7 +169,7 @@ fg=RED</panel_attributes>
     <panel_attributes>lt=&lt;-
 [Art 43 1]: Biometr 
 System wie [Anh III 1]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -204,7 +204,7 @@ interne Kontrolle</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>[Art 43 1 b]: Durchführen der KB nach [Anh VII]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -216,7 +216,7 @@ fg=RED</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -229,7 +229,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen durch 
 "benannte Stelle" wie [Art 31]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -241,7 +241,7 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -253,7 +253,7 @@ fg=RED</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -265,7 +265,7 @@ fg=RED</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -279,7 +279,7 @@ fg=RED</panel_attributes>
     <panel_attributes>[Art 43 1 b d]: Prüfen 
 durch Marktüberwachungs-
 behörde wie [Art 74 Abs 8/9]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -292,7 +292,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m1=[Art 43 1 b d] - Behördensystem
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>170.0;90.0;100.0;90.0;100.0;10.0</additional_attributes>
   </element>
   <element>
@@ -304,7 +304,7 @@ fg=RED</panel_attributes>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -437,7 +437,7 @@ bg=red</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 interne Kontrolle
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>340.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -451,7 +451,7 @@ fg=RED</panel_attributes>
     <panel_attributes>lt=&lt;-
 [Art 43 1]: Art 40 und Art 41
 sind anwendbar
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>180.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
