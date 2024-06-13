@@ -83,7 +83,8 @@ layer=1</panel_attributes>
       <w>260</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>[Art 43 1 a]: Durchführen der KB nach [Anh VI]</panel_attributes>
+    <panel_attributes>[Art 43 1 a]: Durchführen der KB nach [Anh VI]
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -118,7 +119,8 @@ bg=red</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision</panel_attributes>
+    <panel_attributes>type=decision
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -130,7 +132,8 @@ bg=red</panel_attributes>
       <h>140</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
+m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar
+fg=RED</panel_attributes>
     <additional_attributes>230.0;120.0;40.0;120.0;40.0;10.0</additional_attributes>
   </element>
   <element>
@@ -165,7 +168,8 @@ m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [Art 43 1]: Biometr 
-System wie [Anh III 1]</panel_attributes>
+System wie [Anh III 1]
+fg=RED</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -199,7 +203,8 @@ interne Kontrolle</panel_attributes>
       <w>250</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>[Art 43 1 b]: Durchführen der KB nach [Anh VII]</panel_attributes>
+    <panel_attributes>[Art 43 1 b]: Durchführen der KB nach [Anh VII]
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -210,7 +215,8 @@ interne Kontrolle</panel_attributes>
       <w>70</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -222,7 +228,8 @@ interne Kontrolle</panel_attributes>
       <h>50</h>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen durch 
-"benannte Stelle" wie [Art 31]</panel_attributes>
+"benannte Stelle" wie [Art 31]
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -233,7 +240,8 @@ interne Kontrolle</panel_attributes>
       <w>40</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>type=decision</panel_attributes>
+    <panel_attributes>type=decision
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -244,7 +252,8 @@ interne Kontrolle</panel_attributes>
       <w>80</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>60.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -255,7 +264,8 @@ interne Kontrolle</panel_attributes>
       <w>70</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -268,7 +278,8 @@ interne Kontrolle</panel_attributes>
     </coordinates>
     <panel_attributes>[Art 43 1 b d]: Prüfen 
 durch Marktüberwachungs-
-behörde wie [Art 74 Abs 8/9]</panel_attributes>
+behörde wie [Art 74 Abs 8/9]
+fg=RED</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -280,7 +291,8 @@ behörde wie [Art 74 Abs 8/9]</panel_attributes>
       <h>110</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
+m1=[Art 43 1 b d] - Behördensystem
+fg=RED</panel_attributes>
     <additional_attributes>170.0;90.0;100.0;90.0;100.0;10.0</additional_attributes>
   </element>
   <element>
@@ -291,7 +303,8 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
       <w>90</w>
       <h>30</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-</panel_attributes>
+    <panel_attributes>lt=&lt;-
+fg=RED</panel_attributes>
     <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
@@ -423,7 +436,8 @@ bg=red</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-interne Kontrolle</panel_attributes>
+interne Kontrolle
+fg=RED</panel_attributes>
     <additional_attributes>340.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -436,7 +450,8 @@ interne Kontrolle</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 [Art 43 1]: Art 40 und Art 41
-sind anwendbar</panel_attributes>
+sind anwendbar
+fg=RED</panel_attributes>
     <additional_attributes>180.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
