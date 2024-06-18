@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <help_text/>
+  <zoom_level>12</zoom_level>
+  <element>
+    <id>UMLSpecialState</id>
+    <coordinates>
+      <x>144</x>
+      <y>72</y>
+      <w>48</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>type=decision</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLObject</id>
+    <coordinates>
+      <x>276</x>
+      <y>72</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>System</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLState</id>
+    <coordinates>
+      <x>468</x>
+      <y>72</y>
+      <w>120</w>
+      <h>48</h>
+    </coordinates>
+    <panel_attributes>Aktivität</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLSyncBarVertical</id>
+    <coordinates>
+      <x>732</x>
+      <y>60</y>
+      <w>24</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>template=txt
+title=titletext
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>240</x>
+      <y>24</y>
+      <w>168</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>halign=left
+System
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>48</x>
+      <y>24</y>
+      <w>156</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>halign=left
+Entscheidung
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>432</x>
+      <y>24</y>
+      <w>168</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>halign=left
+Aktivität
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>624</x>
+      <y>24</y>
+      <w>168</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>halign=left
+Zusammenführung</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
