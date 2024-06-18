@@ -1,7 +1,7 @@
 # KI-VO Konformitätsbeurteilung als Aktivitaetsdiagramm
 Darstellung der Konformitätsbeurteilung entsprechend der europäischen KI Verordnung (EU AI Act) in der Form eines Aktivitätsdiagramms.
 
-![Konformitätsbewertung als Aktivitätsdiagramm](Art 43.gif)
+![Konformitätsbewertung als Aktivitätsdiagramm](Art43.gif)
 
 ## License
 
