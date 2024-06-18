@@ -142,7 +142,7 @@ m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=DARK_GRAY</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -154,7 +154,7 @@ fg=RED</panel_attributes>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -179,7 +179,7 @@ System wie [Anh III 1]</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>[Art 43 2]: Durchführen der KB nach  [Anh VI]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -191,7 +191,8 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-interne Kontrolle</panel_attributes>
+interne Kontrolle
+fg=BLUE</panel_attributes>
     <additional_attributes>470.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -306,7 +307,7 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -318,7 +319,8 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-[Art 43 2]: Systemtypen wie [Anh III 2 bis 8]</panel_attributes>
+[Art 43 2]: Systemtypen wie [Anh III 2 bis 8]
+fg=BLUE</panel_attributes>
     <additional_attributes>320.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
