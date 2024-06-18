@@ -142,7 +142,7 @@ m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=DARK_GRAY</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -154,7 +154,7 @@ fg=RED</panel_attributes>
       <h>100</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;80.0</additional_attributes>
   </element>
   <element>
@@ -305,7 +305,7 @@ m1=[Art 43 1 b d] - Behördensystem</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -509,7 +509,7 @@ Stelle die [Art 31 Abs 4,5,10,11] genügt</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -521,7 +521,7 @@ fg=RED</panel_attributes>
       <h>90</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;70.0</additional_attributes>
   </element>
   <element>
@@ -533,7 +533,7 @@ fg=RED</panel_attributes>
       <h>40</h>
     </coordinates>
     <panel_attributes>type=decision
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -545,7 +545,7 @@ fg=RED</panel_attributes>
       <h>160</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>10.0;10.0;10.0;140.0</additional_attributes>
   </element>
   <element>
@@ -560,7 +560,7 @@ fg=RED</panel_attributes>
 Systeme, die 
 unter Harmonvorschr [Anh I B]
 fallen
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>190.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
@@ -573,7 +573,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>[Art 2 2]: Es gelten nur 
 [Art 6 1, Art 102 bis 109, 112, 57]
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -585,7 +585,7 @@ fg=RED</panel_attributes>
       <h>20</h>
     </coordinates>
     <panel_attributes>type=flow_final
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -598,7 +598,7 @@ fg=RED</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-
 Keine KB
-fg=RED</panel_attributes>
+fg=BLUE</panel_attributes>
     <additional_attributes>120.0;20.0;10.0;20.0</additional_attributes>
   </element>
 </diagram>
