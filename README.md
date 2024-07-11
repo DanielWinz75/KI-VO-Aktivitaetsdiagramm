@@ -5,7 +5,7 @@ Darstellung der Konformitätsbeurteilung (Artikel 43) entsprechend der europäis
 
 ## Bearbeiten des Diagramms mit UMLet
 
-Das Diagramm kann mit UMLet (Free UML Tool for Fast UML Diagrams) bearbeitet werden: https://www.umlet.com/ .
+Das Diagramm, also die Datei Art 43.uxf, kann mit UMLet (Free UML Tool for Fast UML Diagrams) bearbeitet werden: https://www.umlet.com/ .
 
 ## License
 
