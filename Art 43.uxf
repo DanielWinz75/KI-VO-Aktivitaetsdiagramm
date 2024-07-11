@@ -124,14 +124,13 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>440</x>
+      <x>470</x>
       <y>490</y>
-      <w>250</w>
+      <w>220</w>
       <h>140</h>
     </coordinates>
-    <panel_attributes>lt=&lt;-
-m1=[Art 43 1]: Art 40 und Art 41 NICHT anwendbar</panel_attributes>
-    <additional_attributes>230.0;120.0;40.0;120.0;40.0;10.0</additional_attributes>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>200.0;120.0;10.0;120.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSpecialState</id>
