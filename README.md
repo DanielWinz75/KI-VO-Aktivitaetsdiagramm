@@ -9,7 +9,7 @@ Das Diagramm, also die Datei Art 43.uxf, kann mit UMLet (Free UML Tool for Fast 
 
 ## UML Aktivitätsdiagramm Leitfaden
 
-Bei dem Diagramm handelt es sich um ein UML Aktivitätsdiagramm. Hier ist ein Leitfaden mit Erklärungen zu den Symbolen zu finden: [Aktivitätsdiagramm UML Leitfaden](https://creately.com/blog/de/diagramme/aktivitatsdiagramm-uml/).
+Bei dem Diagramm handelt es sich um ein UML Aktivitätsdiagramm. Leitfaden mit Symbolerklärungen: [Aktivitätsdiagramm UML Leitfaden](https://creately.com/blog/de/diagramme/aktivitatsdiagramm-uml/).
 
 ## License
 
