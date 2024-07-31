@@ -183,12 +183,12 @@ System wie [Anh III 1]</panel_attributes>
     <coordinates>
       <x>790</x>
       <y>350</y>
-      <w>490</w>
+      <w>160</w>
       <h>40</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 interne Kontrolle</panel_attributes>
-    <additional_attributes>470.0;20.0;10.0;20.0</additional_attributes>
+    <additional_attributes>140.0;20.0;10.0;20.0</additional_attributes>
   </element>
   <element>
     <id>UMLState</id>
@@ -346,8 +346,8 @@ von [Anh VII Abs 5 Nr 4.3,4.4,4.5]</panel_attributes>
   <element>
     <id>UMLSpecialState</id>
     <coordinates>
-      <x>930</x>
-      <y>250</y>
+      <x>990</x>
+      <y>300</y>
       <w>40</w>
       <h>40</h>
     </coordinates>
@@ -357,32 +357,32 @@ von [Anh VII Abs 5 Nr 4.3,4.4,4.5]</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>940</x>
-      <y>210</y>
-      <w>200</w>
+      <x>1000</x>
+      <y>260</y>
+      <w>170</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m2=Harmonisierte Norm [Art 40]</panel_attributes>
-    <additional_attributes>180.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
+    <additional_attributes>150.0;10.0;10.0;10.0;10.0;40.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>940</x>
-      <y>280</y>
-      <w>200</w>
+      <x>1000</x>
+      <y>330</y>
+      <w>170</w>
       <h>60</h>
     </coordinates>
     <panel_attributes>lt=&lt;-
 m2=Gemeinsame Spez [Art 41]</panel_attributes>
-    <additional_attributes>180.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
+    <additional_attributes>150.0;40.0;10.0;40.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>UMLSyncBarVertical</id>
     <coordinates>
-      <x>1110</x>
-      <y>220</y>
+      <x>1140</x>
+      <y>270</y>
       <w>20</w>
       <h>100</h>
     </coordinates>
@@ -394,13 +394,13 @@ bg=red</panel_attributes>
   <element>
     <id>Relation</id>
     <coordinates>
-      <x>1110</x>
-      <y>260</y>
-      <w>170</w>
+      <x>1140</x>
+      <y>310</y>
+      <w>140</w>
       <h>30</h>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
-    <additional_attributes>150.0;10.0;10.0;10.0</additional_attributes>
+    <additional_attributes>120.0;10.0;10.0;10.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
@@ -577,5 +577,29 @@ Keine zusätzliche KB nach KI-VO</panel_attributes>
     </coordinates>
     <panel_attributes>lt=&lt;-</panel_attributes>
     <additional_attributes>50.0;10.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLSyncBarVertical</id>
+    <coordinates>
+      <x>920</x>
+      <y>270</y>
+      <w>20</w>
+      <h>100</h>
+    </coordinates>
+    <panel_attributes>template=txt
+title=titletext
+bg=red</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>920</x>
+      <y>310</y>
+      <w>90</w>
+      <h>30</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;-</panel_attributes>
+    <additional_attributes>70.0;10.0;10.0;10.0</additional_attributes>
   </element>
 </diagram>
